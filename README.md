@@ -28,10 +28,10 @@ Welcome to this introductory project on using the OpenAI API. This project is de
 
    - Open a terminal in VSCode.
    - Navigate to the project directory.
-   - Run `python -m venv venv` to create a virtual environment named 'venv'.
+   - Run `python -m venv openai-env` to create a virtual environment named 'openai-env'.
    - Activate the virtual environment:
-     - On Windows, run `venv\\Scripts\\activate`.
-     - On MacOS/Linux, run `source venv/bin/activate`.
+     - On Windows, run `openai-env\\Scripts\\activate`.
+     - On MacOS/Linux, run `source openai-env/bin/activate`.
    - Your terminal should now show the virtual environment name.
 
 5. **Install Required Packages**:
